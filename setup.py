@@ -11,7 +11,7 @@ DESCRIPTION = 'Loan Prediction Model'
 URL = 'https://github.com/manifoldailearning'
 EMAIL = 'quanphungxuan00@gmail.com'
 AUTHOR = 'Quan Phung'
-REQUIRES_PYTHON = '>=3.10.0'
+REQUIRES_PYTHON = '>=3.7.0'
 
 pwd = os.path.abspath(os.path.dirname(__file__))
 
